@@ -4,7 +4,7 @@ authors:
 - family-names: "García Fontán"
   given-names: "Jorge"
   orcid: "https://orcid.org/0000-0003-4187-9624"
-title: "Repository for the codes used in the PhD thesis "Singularity and Stability Analysis of vision-based controllers"."
+title: "Repository for the codes used in the PhD thesis \textit{Singularity and Stability Analysis of vision-based controllers}."
 version: 1.0.0
 doi: 10.5281/zenodo.1234
 date-released: 2022-10-01
